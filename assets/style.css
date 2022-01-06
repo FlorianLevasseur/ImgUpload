@@ -1,0 +1,16 @@
+body {
+    background-color: #271172;
+    color: white;
+}
+
+.textAlert {
+    color: red;
+}
+
+.myTitle {
+    font-size: 3rem;
+}
+
+.myBtn {
+    border-radius: 0;
+}
